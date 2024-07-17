@@ -1,0 +1,51 @@
+Category,Question,Answer Option 1,Answer Option 2,Answer Option 3,Answer Option 4,Correct Answer
+GeneralKnowledge,What is the tallest mountain in the world?,Mount Everest,K2,Kangchenjunga,Lhotse,Mount Everest
+GeneralKnowledge,Which planet is known as the Red Planet?,Mars,Venus,Jupiter,Saturn,Mars
+GeneralKnowledge,Who wrote the play 'Romeo and Juliet'?,William Shakespeare,Charles Dickens,Jane Austen,Mark Twain,William Shakespeare
+GeneralKnowledge,Which ocean is the largest?,Pacific Ocean,Atlantic Ocean,Indian Ocean,Arctic Ocean,Pacific Ocean
+GeneralKnowledge,What is the currency of Japan?,Yen,Dollar,Euro,Pound,Yen
+GeneralKnowledge,Who discovered penicillin?,Alexander Fleming,Marie Curie,Isaac Newton,Louis Pasteur,Alexander Fleming
+GeneralKnowledge,Which country is known as the Land of the Rising Sun?,Japan,China,Thailand,South Korea,Japan
+GeneralKnowledge,What is the smallest country in the world?,Vatican City,Monaco,San Marino,Liechtenstein,Vatican City
+GeneralKnowledge,Who was the first man to walk on the moon?,Neil Armstrong,Buzz Aldrin,Yuri Gagarin,Michael Collins,Neil Armstrong
+GeneralKnowledge,What is the capital of Australia?,Canberra,Sydney,Melbourne,Brisbane,Canberra
+Science,What is the chemical symbol for Gold?,Au,Ag,Fe,Hg,Au
+Science,What planet is closest to the sun?,Mercury,Venus,Earth,Mars,Mercury
+Science,What is the powerhouse of the cell?,Mitochondria,Nucleus,Ribosome,Endoplasmic Reticulum,Mitochondria
+Science,What gas do plants absorb from the atmosphere?,Carbon Dioxide,Oxygen,Nitrogen,Helium,Carbon Dioxide
+Science,What is the main gas found in the air we breathe?,Nitrogen,Oxygen,Carbon Dioxide,Hydrogen,Nitrogen
+Science,What force keeps us on the ground?,Gravity,Magnetism,Friction,Electromagnetism,Gravity
+Science,What part of the plant conducts photosynthesis?,Leaf,Root,Stem,Flower,Leaf
+Science,What is the hardest natural substance on Earth?,Diamond,Gold,Iron,Platinum,Diamond
+Science,What is the boiling point of water?,100°C,90°C,120°C,80°C,100°C
+Science,Which planet is known as the Earth's twin?,Venus,Mars,Jupiter,Saturn,Venus
+Maths,"What is the value of pi (π) to two decimal places?",3.14,3.15,3.16,3.13,3.14
+Maths,What is the square root of 144?,12,14,16,10,12
+Maths,If a triangle has angles of 90°, 60°, and 30°, what type of triangle is it?,Right-angled,Isosceles,Equilateral,Scalene,Right-angled
+Maths,What is the result of 15 - 7?,8,6,9,7,8
+Maths,What is 10% of 200?,20,25,30,15,20
+Maths,What is the perimeter of a rectangle with length 5 and width 3?,16,18,20,14,16
+Maths,"What is 7 multiplied by 8?",56,54,58,60,56
+Maths,What is 100 divided by 4?,25,20,30,15,25
+Maths,"If X - 3 = 2, what is X?",5,4,3,6,5
+Maths,What is the value of 2^3?,8,6,10,4,8
+Literature,Who wrote '1984'?,George Orwell,Aldous Huxley,F. Scott Fitzgerald,Ernest Hemingway,George Orwell
+Literature,Who wrote 'Pride and Prejudice'?,Jane Austen,Charlotte Bronte,Emily Bronte,George Eliot,Jane Austen
+Literature,Who wrote 'Moby Dick'?,Herman Melville,Mark Twain,Jack London,Jules Verne,Herman Melville
+Literature,Who wrote 'The Great Gatsby'?,F. Scott Fitzgerald,Ernest Hemingway,John Steinbeck,William Faulkner,F. Scott Fitzgerald
+Literature,Who wrote 'To Kill a Mockingbird'?,Harper Lee,Truman Capote,Toni Morrison,Margaret Mitchell,Harper Lee
+Literature,Who wrote 'War and Peace'?,Leo Tolstoy,Alexander Pushkin,Anton Chekhov,Fyodor Dostoevsky,Leo Tolstoy
+Literature,Who wrote 'The Catcher in the Rye'?,J.D. Salinger,John Steinbeck,Ernest Hemingway,William Golding,J.D. Salinger
+Literature,Who wrote 'The Odyssey'?,Homer,Virgil,Sophocles,Euripides,Homer
+Literature,Who wrote 'The Divine Comedy'?,Dante Alighieri,Geoffrey Chaucer,John Milton,William Blake,Dante Alighieri
+Literature,Who wrote 'Jane Eyre'?,Charlotte Bronte,Emily Bronte,Anne Bronte,Elizabeth Gaskell,Charlotte Bronte
+Sports,Which country won the FIFA World Cup in 2018?,France,Croatia,Brazil,Germany,France
+Sports,How many players are there in a soccer team?,11,10,12,9,11
+Sports,Which sport is known as the "king of sports"?,Soccer,Basketball,Cricket,Baseball,Soccer
+Sports,Who is known as the fastest man in the world?,Usain Bolt,Carl Lewis,Michael Johnson,Tyson Gay,Usain Bolt
+Sports,In which sport would you perform a slam dunk?,Basketball,Volleyball,Tennis,Baseball,Basketball
+Sports,Which country has won the most Olympic gold medals?,United States,China,Russia,Germany,United States
+Sports,What is the highest score possible in 10-pin bowling?,300,200,250,400,300
+Sports,Who holds the record for the most home runs in a single MLB season?,Barry Bonds,Hank Aaron,Babe Ruth,Mark McGwire,Barry Bonds
+Sports,In which sport would you use a shuttlecock?,Badminton,Tennis,Table Tennis,Volleyball,Badminton
+Sports,Which country hosted the 2016 Summer Olympics?,Brazil,China,United Kingdom,Japan,Brazil
